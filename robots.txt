@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinoumaravi1237-svg.github.io/subterranean-liability-site/sitemap.xml
